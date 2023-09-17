@@ -29,7 +29,7 @@
   "`Garnet`",
   "`Tourmaline`",
   "`Onyx`",
-  "- Gems can be found in multiple different sizes; __Shard__, __Fragment__, __Chunk__. All having a value difference depending on the gem type + size.",
+  "- Gems can be found in multiple different  TEST sizes; __Shard__, __Fragment__, __Chunk__. All having a value difference depending on the gem type + size.",
   "- *Each time you mine* for ore there's a **small percentage chance to drop gems** depending on the size of vein you are mining. These gems can be sold at the **Black Market** `Mining Trader`.",
   "",
   "```fix",
