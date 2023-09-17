@@ -1,0 +1,31 @@
+{
+  "name": "dayz-leaderboards",
+  "version": "1.0.0",
+  "description": "Leaderboards for DayZ based on CFTools Cloud API",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuShamil/dayz-leaderboards.git"
+  },
+  "keywords": [
+    "dayz",
+    "leaderboards"
+  ],
+  "author": "manusshamil@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuShamil/dayz-leaderboards/issues"
+  },
+  "homepage": "https://github.com/ManuShamil/dayz-leaderboards#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "service": {
+        "auth": {
+            "application_id": "62be5c897235dc2c0323f580",
+            "secret": "sqX/RlQkPTVrIB1V0HhXUo6VqLgwB6ZirrXldqUZhwg="
+        },
+        "serviceId": {
+            "main": "751be567-ce15-451a-8b2e-2944ac7865bf"
+        }
+    },
+    "bot": {
+        "command": "!l",
+        "commandTypes": {
+            "stats": {
+                "authorizedChannels": [
+                    "992227272977285200"
+                ],
+                "config": {
+                    "emote": ""
+                }
+            }
+        }
+    }
+}

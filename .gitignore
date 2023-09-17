@@ -1,0 +1,10 @@
+# Ignore node modules to avoid breaking installation
+# and keep maintainability using the git version control
+# Oh well LOL
+# node_modules
+# **/node_modules
+
+**/.env.test
+
+# Ignore local environmental files
+.env.local

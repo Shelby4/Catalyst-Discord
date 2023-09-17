@@ -1,0 +1,32 @@
+[
+    {
+        "traderName": "(Safezone) Altar Trader",
+        "traderIds": [
+            0, 1, 4, 6, 7, 8, 10, 14, 15
+        ]
+    },
+    {
+        "traderName": "(Black Market) Bash Trader",
+        "traderIds": [
+            0, 1, 2, 3, 5, 4, 9, 11, 16, 17, 20, 21
+        ]
+    },
+	{
+        "traderName": "Helicopter Trader",
+        "traderIds": [
+            13
+        ]
+    },
+	{
+        "traderName": "Drug Trader",
+        "traderIds": [
+            13
+        ]
+    },
+    {
+        "traderName": "Base Building Trader",
+        "traderIds": [
+            19
+        ]
+    }
+]

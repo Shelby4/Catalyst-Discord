@@ -1,0 +1,31 @@
+{
+  "name": "dayz-bot",
+  "version": "1.0.0",
+  "description": "Bots for DayZ Communities",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js",
+	  "start": "pm2 start app.js --name \"leaderboard-bot\"",
+    "status": "pm2 describe leaderboard-bot",
+    "stop": "pm2 stop leaderboard-bot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuShamil/dayz-bot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "manusshamil@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuShamil/dayz-bot/issues"
+  },
+  "homepage": "https://github.com/ManuShamil/dayz-bot#readme",
+  "dependencies": {
+    "dayz-leaderboards": "file:../dayz-leaderboards",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "steamid": "^1.1.3"
+  }
+}

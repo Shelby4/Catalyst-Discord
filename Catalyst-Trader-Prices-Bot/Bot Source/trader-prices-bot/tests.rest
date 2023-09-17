@@ -1,0 +1,35 @@
+POST http://localhost:3000/clear HTTP/1.1
+Content-Type: application/json
+
+{
+    "channelId": "801553811431304764"
+}
+
+####
+
+POST http://localhost:3000/updatelist HTTP/1.1
+Content-Type: application/json
+
+{
+    "channelId": "801553811431304764",
+    "items": [
+        {
+            "className": "M4A1",
+            "displayName": "M4A1",
+            "buyPrice": 2000,
+            "sellPrice": 1000,
+            "traderName": "Weapons Trader",
+            "categoryName": "Assault Rifles"
+        }
+    ],
+    "clearList": true
+}
+
+###
+POST http://localhost:3000/getItem HTTP/1.1
+Content-Type: application/json
+
+{
+    "channelId": "801553811431304764",
+    "searchPattern": "m4"
+}

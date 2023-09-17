@@ -1,0 +1,7 @@
+{
+    "ENDPOINTS": {
+        "updatelist": "updatelist"
+    },
+    "botHost": "http://localhost:3000/",
+    "channelId": "970016333913813012"
+}
