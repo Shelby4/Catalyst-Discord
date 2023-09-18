@@ -1,3 +1,4 @@
 @echo
 
 node .
+cmd /k
