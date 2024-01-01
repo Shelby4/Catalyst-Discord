@@ -56,7 +56,7 @@ module.exports = {
     const embedData = {
       color: 0xffffff,
       image: {
-        url: 'https://imgur.com/cUY66wT.png',
+        url: 'https://imgur.com/2d22nR7.png',
       },
     };
 
