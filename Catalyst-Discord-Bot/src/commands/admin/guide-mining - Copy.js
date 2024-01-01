@@ -47,7 +47,7 @@ module.exports = {
     }
 
     // Grabbing and converting our rules
-    const pathToRulesJSON = '../../../config/guide-ammo.json';
+    const pathToRulesJSON = '../../../config/guide-mining.json';
     delete require.cache[require.resolve(pathToRulesJSON)];
     const rules = require(pathToRulesJSON).map((rule) => `> ${rule}`);
     const ruleStr = rules.join('\n');
@@ -55,7 +55,7 @@ module.exports = {
     // Building our rule embed
     const embedData = {
       color: colorResolver(),
-      title: `AMMUNITION CHART`,
+      title: `MINING`,
       description: ruleStr
     };
 

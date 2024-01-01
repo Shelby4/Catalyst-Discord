@@ -54,9 +54,10 @@ module.exports = {
 
     // Building our rule embed
     const embedData = {
-      color: colorResolver(),
-      title: `AMMUNITION CHART`,
-      description: ruleStr
+      color: 0xffffff,
+      image: {
+        url: 'https://imgur.com/PudB2vv.png',
+      },
     };
 
     // Deferring our reply
