@@ -3,12 +3,12 @@ const { colorResolver } = require('../../util');
 module.exports = {
   // Building our API data
   data: {
-    description: 'Send guide to the specified channel',
+    description: 'Send donation info to the specified channel',
     default_permission: false,
     options: [
       {
         name: 'channel',
-        description: 'The channel to send the guide to',
+        description: 'The channel to send the donation info to',
         type: 7, // is CHANNEL type
         // Specifying our channel types
         channel_types: [
@@ -47,7 +47,7 @@ module.exports = {
     }
 
     // Grabbing and converting our rules
-    const pathToRulesJSON = '../../../config/guide-armor-system.json';
+    const pathToRulesJSON = '../../../config/guide-rarity.json';
     delete require.cache[require.resolve(pathToRulesJSON)];
     const rules = require(pathToRulesJSON).map((rule) => `> ${rule}`);
     const ruleStr = rules.join('\n');
@@ -55,11 +55,8 @@ module.exports = {
     // Building our rule embed
     const embedData = {
       color: colorResolver(),
-      title: `ARMOR SYSTEM`,
-      description: ruleStr,
-      image: {
-        url: 'https://i.imgur.com/3htxNXH.jpg',
-      },
+      title: `RARITY`,
+      description: ruleStr
     };
 
     // Deferring our reply

@@ -58,7 +58,7 @@ module.exports = {
       title: `DOGTAGS`,
       description: ruleStr,
       image: {
-        url: 'https://i.imgur.com/vWAYk1T.jpg',
+        url: 'https://imgur.com/yUOqkYE.png',
       },
     };
 
