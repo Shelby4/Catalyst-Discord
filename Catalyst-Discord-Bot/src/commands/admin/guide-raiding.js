@@ -47,17 +47,16 @@ module.exports = {
     }
 
     // Grabbing and converting our rules
-    const pathToRulesJSON = '../../../config/guide-building.json';
+    const pathToRulesJSON = '../../../config/guide-raiding.json';
     delete require.cache[require.resolve(pathToRulesJSON)];
     const rules = require(pathToRulesJSON).map((rule) => `> ${rule}`);
     const ruleStr = rules.join('\n');
 
     // Building our rule embed
     const embedData = {
-      color: 0xffffff,
-      image: {
-        url: 'https://imgur.com/aI0vRLR.png',
-      },
+      color: colorResolver(),
+      title: `BASE RAIDING`,
+      description: ruleStr
     };
 
     // Deferring our reply
