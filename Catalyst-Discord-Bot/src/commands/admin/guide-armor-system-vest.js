@@ -47,7 +47,7 @@ module.exports = {
     }
 
     // Grabbing and converting our rules
-    const pathToRulesJSON = '../../../config/guide-armor-system-vest.json';
+    const pathToRulesJSON = '../../../config/guide-armor-vest.json';
     delete require.cache[require.resolve(pathToRulesJSON)];
     const rules = require(pathToRulesJSON).map((rule) => `> ${rule}`);
     const ruleStr = rules.join('\n');
