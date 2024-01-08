@@ -1,0 +1,17 @@
+{
+  "intents": [ "GUILDS" ],
+  "presence": {
+    "status": "online",
+    "activities": [
+      {
+        "name": "/play",
+        "type": "LISTENING"
+      }
+    ]
+  },
+  "permissions": {
+    "ownerId": "366152457887416321",
+    "developers": "132610784885866496"
+  },
+  "supportServerInviteLink": "https://discord.gg/KaxTGGg4jK"
+}

@@ -1,0 +1,22 @@
+[
+  "━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+  "Catalyst has a custom map edit to house our own Casino.",
+  "- Total of **4 different gambling machines** to use.",
+  "- The area is not a safe zone area.",
+  "- High risk, high reward.",
+  "- Located on the in-game map, west of Bogatyrka.",
+  "━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+  "```fix",
+  "- THE CASINO -```",
+  "**[ PLAYING THE MACHINES ]**",
+  "The casino has 4 machines to play with, the machines are:",
+  "- Rat Racing.",
+  "- Dice Rolling",
+  "- Lucky Wheel.",
+  "- Black Jack.",
+  "Be sure to have `money on you before going to the casino`, there are `no ATM's` located there. The machines have slightly different user interfaces but are very simple to use, you can adjust the amount of money you wish to gamble on each turn and money will automatically leave and enter your inventory.",
+  "",
+  "**[ CASINO AREA ]**",
+  "The area is `not a safe zone` and only has `one entrance/exit`. This gives you the feeling of `high risk, high reward`. The casino itself is `located underground.`",
+  "━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+]

@@ -1,0 +1,23 @@
+[
+  "━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+  "Catalyst has its own custom **Medical** system that is unique to DayZ.",
+  "- Several different items with different healing amounts.",
+  "- Some items will spawn during Server Events.",
+  "- Some items are able to be purchased at Safezone Traders and other only in Black Market.",
+  "━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+  "```fix",
+  "- MEDICAL SUPPLIES -```",
+  "**[ LIST OF MEDICAL SUPPLEIS ]**",
+  "",
+  "Item `healing rates` and `healing times` are shown on the slide at the bottom of this guide *__(the guide will show healing time, healing rate and blood regeneration)__.* They are also shown in the `item description in-game`.",
+  "",
+  "Anti-Rad Tablets",
+  "Trauma Bandages",
+  "EMS Injectors I",
+  "EMS Injectors II",
+  "EMS Injectors III",
+  "AI-2 Medkit",
+  "Grizzly First Aid Orange/Black",
+  "Emergancy Supply Bag",
+  "━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+]

@@ -1,0 +1,22 @@
+[
+  "━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+  "Catalyst has an exclusive **Bank Heist Event** that is unique.",
+  "- **Server wide event, all players will be notified.**",
+  "- Highest tier loot.",
+  "- Four vaults to raid.",
+  "- Blow open each vault with heavy breaching charges, execpt the last vault which will need a black keycard.",
+  "━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+  "**[ BANK LOCATION ]**",
+  "The bank building can be found in Chernogorsk, also located on the in-game map. The building itself has one entrance on the ground floor and an entrance on the roof. There are 4 vaults in total, 2 on the ground floor and 2 on the 1st floor.",
+  "━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+   "```fix",
+  "- RAIDING THE BANK -```",
+  "**[ HOW TO DO THE BANK HEIST ]**",
+  "- Each vault door will take a slightly `different amount of heavy breaching charges.` `The entire server will be notified` that the bank heist has begun and can contest you.",
+  "- Each C4 you place will take `6 minutes` to blow.",
+  "Step 1 - The `first vault` door is on the `ground floor to the left`, this door will take `2 C4 charges` to blow open.",
+  "Step 2 - The `second vault` door is on the ground floor on the right, this door will take 3 `C4 charges` to blow open.",
+  "Step 3 - The `third vault` door is on the first floor on the right *__(smaller door)__*, this door will take `4 C4 charges` to blow open. Inside this vault you will find the `black keycard` needed for the last vault. Inside the third vault will be `safety deposit boxes` which you can raid with your `hands`, `lockpick` or `blowtorch`. Blowtorch is an instant raid on each deposit box, using lockpick will take you 20 seconds and using your hands will take you 45 seconds. You can raid approx 50 deposit boxes.",
+  "Step 4 - After obtaining the `black keycard` you can access the last vault. The `fourth and final vault` is across the hall to the third vault.",
+  "━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+]

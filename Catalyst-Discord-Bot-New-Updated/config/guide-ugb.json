@@ -1,0 +1,23 @@
+[
+  "━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+  "Catalyst uses **UNDERGROUND BASE** mod from the workshop.",
+  "- Total of 3 different levels to upgrade bunker.",
+  "- Able to build BBP doors inside the buncker.",
+  "- If the base has been inactive for longer than 14 days (no one entered the underground base) - The underground base will despawn.",
+  "━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+  "```fix",
+  "- BUILDING AN UNDERGROUND BASE -```",
+  "**[ CRAFTING STEPS ]**",
+  "Step 1 - *Use a `shovel` to dig the base.*",
+  "Step 2 - *`Add 99 nails` + `40 planks` + `5 wooden logs.`*",
+  "Step 3 - *Use a `hatchet/hammer` to upgrade to level 1 hatch.*",
+  "Step 4 - *Attach `codelock` to the hatch door, make sure to `build a territory flag inside the base.`*",
+  "Step 5 - *Enter the hatch, use your `shovel` inside the base and look at the wall or floor to `Upgrade Base` __(Open up the inventory and you can see what is required to upgrade to level 2 underground hatch)__.*",
+  "Step 6 - *Add `99 nails` + `40 planks` + `5 wooden logs` + `20 sheet metal.`*",
+  "Step 7 - *Use a `hatchet/hammer` inside the underground base to upgrade to level 2.*",
+  "Step 8 - *Once again look at the ground or wall to get the prompt to `Upgrade Base`*",
+  "Step 9 - *Add `99 nails` + `6 wooden logs` + `20 sheet metal` + `5 concrete blocks.`*",
+  "Step 10 - *Use a `hatchet/hammer` inside the underground base to upgrade to level 3.*",
+  "",
+  "━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+]
